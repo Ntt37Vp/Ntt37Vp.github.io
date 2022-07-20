@@ -1,0 +1,11 @@
+body{
+	background-color: lightcoral;
+}
+.head{
+	font-family: sans-serif;
+}
+#login{
+	font-variant-east-asian: simplified;
+	padding: 5%;
+	align-content: center;
+}
