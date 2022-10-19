@@ -1,0 +1,28 @@
+body{
+    background-color: #F0F5F9;
+    color: #282A35;
+    margin: 1%;
+    padding: 1%;
+}
+h1{
+    letter-spacing: 10px;
+}
+#title{
+    text-align: center;
+    font-size: larger;
+
+}
+.contents{
+    margin: 0;
+    border: 0;
+    padding: 1%;
+    background-color: #C9D6DF;
+    color: #282A35;
+}
+
+footer{
+    margin-top: 5em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    text-align: center;
+}
